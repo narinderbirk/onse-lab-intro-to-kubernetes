@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: kubernetes-intro-web
-        image: narinderbirk/hello-world:0.0.1
+        image: narinderbirk/hello-world:0.0.4
         imagePullPolicy: Always
         resources:
           requests:
